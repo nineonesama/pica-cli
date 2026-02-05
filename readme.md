@@ -5,7 +5,7 @@
 )](https://github.com/justorez/pica-cli/actions/workflows/publish.yml)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 
-😉 哔咔漫画下载器
+哔咔漫画下载器😉
 
 ![演示](https://s2.loli.net/2024/02/01/Qc7L3qGZOWBPmkR.gif)
 
